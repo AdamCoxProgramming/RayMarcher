@@ -1,0 +1,54 @@
+﻿  Camera.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+  CompoundObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+  DisplacementObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+  Material.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+Material.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MeshObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RoundedBoxObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+  Scene.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Scene2.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Scene3.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Scene4.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SdfObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+  SphereObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+  TestScene.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(30): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Time.cpp
+Time.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Triangle.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Vector3.cpp
+Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data

@@ -1,0 +1,89 @@
+﻿  Camera.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+  CollisionInformation.cpp
+  CompoundObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+  DisplacementObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+  Drawer.cpp
+  Material.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+Material.cpp(54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(18): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(24): warning C4244: 'return': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\CollisionInformation.cpp(2): warning C4099: 'SdfObject': type name first seen using 'struct' now seen using 'class'
+  c:\users\adam\documents\visual studio 2015\projects\ray marcher\SdfObject.cpp(7): note: see declaration of 'SdfObject'
+main.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(53): warning C4244: 'argument': conversion from 'const float' to 'Uint8', possible loss of data
+main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+main.cpp(73): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  MeshObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RoundedBoxObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+  Scene.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(18): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(24): warning C4244: 'return': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\CollisionInformation.cpp(2): warning C4099: 'SdfObject': type name first seen using 'struct' now seen using 'class'
+  c:\users\adam\documents\visual studio 2015\projects\ray marcher\SdfObject.cpp(7): note: see declaration of 'SdfObject'
+  Scene2.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(18): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(24): warning C4244: 'return': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\CollisionInformation.cpp(2): warning C4099: 'SdfObject': type name first seen using 'struct' now seen using 'class'
+  c:\users\adam\documents\visual studio 2015\projects\ray marcher\SdfObject.cpp(7): note: see declaration of 'SdfObject'
+  Scene3.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(18): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(24): warning C4244: 'return': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\CollisionInformation.cpp(2): warning C4099: 'SdfObject': type name first seen using 'struct' now seen using 'class'
+  c:\users\adam\documents\visual studio 2015\projects\ray marcher\SdfObject.cpp(7): note: see declaration of 'SdfObject'
+  Scene4.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(18): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(24): warning C4244: 'return': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\CollisionInformation.cpp(2): warning C4099: 'SdfObject': type name first seen using 'struct' now seen using 'class'
+  c:\users\adam\documents\visual studio 2015\projects\ray marcher\SdfObject.cpp(7): note: see declaration of 'SdfObject'
+  SdfObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+  SphereObject.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+  TestScene.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Material.cpp(32): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(18): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Time.cpp(24): warning C4244: 'return': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\CollisionInformation.cpp(2): warning C4099: 'SdfObject': type name first seen using 'struct' now seen using 'class'
+  c:\users\adam\documents\visual studio 2015\projects\ray marcher\SdfObject.cpp(7): note: see declaration of 'SdfObject'
+  Time.cpp
+Time.cpp(18): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+Time.cpp(24): warning C4244: 'return': conversion from 'Uint32' to 'float', possible loss of data
+  Triangle.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Vector3.cpp
+Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Vertex.cpp
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\Vector3.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+c:\users\adam\documents\visual studio 2015\projects\ray marcher\camera.cpp(30): warning C4172: returning address of local variable or temporary
+  All 289 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ray Marcher.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2015\Projects\Ray Marcher\Release\Ray Marcher.exe
+  Ray Marcher.vcxproj -> C:\Users\Adam\Documents\Visual Studio 2015\Projects\Ray Marcher\Release\Ray Marcher.pdb (Full PDB)
